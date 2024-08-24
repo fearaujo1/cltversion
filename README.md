@@ -13,5 +13,6 @@ Comandos utilizados:
 6) git push -u origin main
    Utilizado para enviar o conteúdo selecionado do repositório local para o repositório remoto
 
+Branch: utilizada para organizar os arquivos no repositório, são ramificações criadas para salvar alterações feitas nos arquivos do projeto
 
    Felipe Marconi Gomes de Araujo
